@@ -22,23 +22,3 @@ A smart, user-friendly web application that predicts diseases based on symptoms 
 | HTML, CSS, Bootstrap 5 | Flask (Python) | Scikit-learn / custom-trained model |
 
 ---
-
-## 🖼️ UI Screenshots
-
-> Include screenshots or a link to your deployed app here for better visual presentation.
-
----
-
-## 🧪 How to Run Locally
-
-### 🔧 Prerequisites:
-- Python 3.x
-- pip
-
-### 💻 Setup:
-```bash
-git clone https://github.com/yourusername/wellnessai.git
-cd wellnessai
-pip install -r requirements.txt
-python app.py
-
